@@ -522,6 +522,7 @@ nav li {
   text-decoration: none;
   display: block;
   padding: 5px;
+  border: none;
 }
 
 .video-thumbnail-container img {
